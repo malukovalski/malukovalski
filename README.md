@@ -1,4 +1,4 @@
-## Olá! / Hello! / Hallo! / 안녕하세요 👋
+## Olá! / Hello! / Hallo! / 안녕하세요 / привет 👋
 
 <!--
 **malukovalski/malukovalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
